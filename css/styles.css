@@ -12,7 +12,7 @@ p.intro {
   color: purple;
 }
 
-img.intro {
+.blah {
   float: right;
   border-radius: 10px 10px;
   border-color: blue;
@@ -20,4 +20,8 @@ img.intro {
   border-width: thick;
   margin-left: 1em;
   margin-right: 5em;
+}
+
+.intro {
+  color: red;
 }
